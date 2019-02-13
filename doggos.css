@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px;
+    font-family: monospace;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+
+.breed-select{
+    padding: 10px;
+}
+
+.blue-box{
+    background-color: #3b8ec2;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
+
+.add-doggo{
+    margin-top: 20px;
+}
+
+.doggo-img{
+    padding: 10px;
+}
